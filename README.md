@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)  
 ![Tool](https://img.shields.io/badge/Idle-Cleanup-FF5252.svg?logo=trash)  
-![Features](https://img.shields.io/badge/Features-Idle-Resource-Detection-4CAF50.svg?logo=cloud)  
+![Features](https://img.shields.io/badge/Features-Config%20Checks-4CAF50.svg?logo=gear&logoColor=white)
 ![Reports](https://img.shields.io/badge/Reports-JSON-2196F3.svg?logo=json)  
 ![CI/CD](https://img.shields.io/badge/CI/CD-Ready-2088FF.svg?logo=githubactions)  
 ![Dependencies](https://img.shields.io/badge/Dependencies-None-green.svg?logo=python)
