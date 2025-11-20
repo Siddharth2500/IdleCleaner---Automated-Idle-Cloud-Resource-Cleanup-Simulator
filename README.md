@@ -9,7 +9,7 @@
 
 **IdleCleaner** is a **Python 3** tool designed to scan a simulated set of cloud resources, identify those that have been **idle for more than a defined threshold** (e.g., 30 days), and flag them as candidates for cleanup. It’s built for cloud engineers and cost-optimization teams looking to automate resource hygiene.
 
-----------
+----------------
 
 ## 🛠 Tech & Languages
 
