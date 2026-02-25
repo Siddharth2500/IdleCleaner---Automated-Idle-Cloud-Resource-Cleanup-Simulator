@@ -32,7 +32,7 @@ Flow:
 4. Step 4 – Aggregate results and write `cleanup_report.json`, including list of candidates.  
 5. Integrate the report into CI/CD pipelines or cost dashboards for action.
 
----
+------
 
 ## ▶️ Run IdleCleaner
 
