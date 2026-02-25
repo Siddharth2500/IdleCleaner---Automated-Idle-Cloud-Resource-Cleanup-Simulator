@@ -1,4 +1,4 @@
-# 🚀 IdleCleaner — Automated Idle Cloud Resource Cleanup
+# 🚀 IdleCleaner - Automated Idle Cloud Resource Cleanup
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python&logoColor=white)  
 ![Tool](https://img.shields.io/badge/Idle-Cleanup-FF5252.svg?logo=trash)  
